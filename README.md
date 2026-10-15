@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.png.png" alt="Munazza's profile picture" width="180" />
+  <img src="./profile.png.png" alt="Munazza's profile picture" width="400" />
 </p>
 <h1 align="center">Hi 👋, I'm Munazza</h1>
 <h3 align="center">A passionate game developer from India</h3>
